@@ -41,7 +41,7 @@ export default function Hero() {
              {/* Fallback Text if image fails to load (visual only if img missing) */}
              <div className="absolute inset-0 flex items-center justify-center bg-slate-200 dark:bg-slate-800 -z-10">
                 <span className="text-slate-400 dark:text-slate-600 text-sm font-medium px-4 text-center">
-                   Put "profile.jpg" in public/images
+                   Put &quot;profile.jpg&quot; in public/images
                 </span>
              </div>
           </div>

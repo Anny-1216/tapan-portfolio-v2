@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion";
 import { personalInfo } from "@/data/resume";
-import { cn } from "@/lib/utils";
 
 export default function Skills() {
   return (
